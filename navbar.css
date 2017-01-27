@@ -9,16 +9,12 @@ body {
   border: 1px solid black;
   box-shadow: 5px 5px 5px;
 }
-#fixed{
-  position: fixed;
-}
+
 #navbar li {
   margin-top: 20px;
   margin-right: 20px;
 }
-h2{
-  text-decoration: underline;
-}
+
 
 .navbar-brand img {
   width: 130px;
