@@ -1,0 +1,97 @@
+body{
+  background-color: black;
+  font-family: 'Architects Daughter', cursive;
+}
+span {
+  color:limegreen;
+}
+hr{
+  color: black;
+}
+h1{
+  padding-left: 30px;
+  padding-top: 360px;
+  color: black;
+  font-weight: bold;
+}
+h2 {
+  text-shadow: 2px 2px 5px black;
+}
+h3, h4, h5{
+  text-align: center; 
+}
+header div p { 
+  margin: 0;
+}
+
+a{
+  font-size: 14px;
+  color: lightcoral;
+}
+.container {
+  width: 550px;
+  background-color: lightgray ;
+}
+.nav{
+  font-weight: bold;
+}
+.skills  p {
+  padding: 5px;
+  font-size: 16px;
+  color: white;
+  background-color: black;
+  width: 500px;
+}
+.rowContact {
+  position: fixed;
+  width:550px; 
+}
+
+.box{
+  margin: 10px;
+}
+.cont{
+  background:white;
+  text-align: center;
+  font-size: 20px;
+  }
+.image{
+  margin-top:50px; 
+  width: 100%;
+  height: 400px;
+  background-image: url("../img/desc.jpg");
+  text-align: center;
+  opacity: 0.5;
+}
+.image:hover {
+  opacity: 0.9;
+}
+.info{
+  float: left;
+}
+.info p {
+  font-family: 'Indie Flower', cursive;
+}
+.pics{
+  margin-top: 30px;
+  margin-right: 70px; 
+  float: right;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+#videos{
+  margin: 0;
+  padding: 0;
+}
+#videos a {
+  margin: 10px;
+}
+#videos img {
+margin: 15px;
+width: 120px;
+height:  120px;
+}
+
